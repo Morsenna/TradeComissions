@@ -41,6 +41,7 @@ namespace TradeComissions
             {
                 Console.WriteLine("error");
             } 
+
             else if (commission >= 0)
             {
                 double totalincome = commission * salesVolume;
